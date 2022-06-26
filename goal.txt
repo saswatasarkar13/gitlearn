@@ -1,5 +1,4 @@
-Saswata Sarkar
 DevOPS
-DSA
 Networking
 System Design
+DSA
